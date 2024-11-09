@@ -15,6 +15,7 @@ communication and organization skills. I am excited to join a team where I can l
 ## Links and contacts 🔗
 
 <a href="https://www.t.me/yura_malets">Telegram</a><br />
-<a href="https://www.linkedin.com/in/yurii-malets">LinkedIn</a><br />
+<a href="https://www.linkedin.com/in/yurii-malets-14a9b8182">LinkedIn</a><br />
 yuramalets@gmail.com
+
 
