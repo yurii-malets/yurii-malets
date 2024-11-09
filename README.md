@@ -1,14 +1,14 @@
-## Portfolio
+#### Portfolio
 
-## About me
+## About me 👋
 
-## Technical skills
+## Technical skills 💻
 
-## Tools
+## Tools  🔧
 
-## Soft skills
+## Soft skills 👐
 
-## Samples
+## Samples 🗂
 
 ## Links 🔗
 
