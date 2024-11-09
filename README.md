@@ -5,10 +5,62 @@ Hi, my name is Yura. Since 2023 I have been studying and practicing to become a 
 communication and organization skills. I am excited to join a team where I can leverage my problem-solving skills and grow through practical experience in a real-world QA environment. I am eager to apply my knowledge and gain practical experience in software testing within a dynamic team environment to contribute to the quality assurance process and ensure high software standards.
 
 ## Technical skills 💻
-
+<ul>
+  <li>Technical Documentation/SRS</li>
+  <li>UML</li>
+  <li>Java core</li>
+  <li>SQL</li>
+  <li>Rest Api</li>
+  <li>CI</li>
+  <li>JSON/XML</li>
+  <li>Rest API testing</li>
+  <li>Knowledge about software development models (waterfall, v model, iterative and incremental model, agile)</li>
+  <li>Software testing</li>
+  <li>Creating test cases</li>
+  <li>Reporting bugs</li>
+  <li>Creating bug reports</li>
+  <li>Basic HTML and CSS</li>
+  <li>Creating documentation</li>
+  <li>Performing smoke tests</li>
+</ul>
 ## Tools  🔧
+<ul>
+  <li>Jira</li>
+  <li>Trello</li>
+  <li>Confluence</li>
+  <li>Chrome Devtools</li>
+  <li>Google Drive </li>
+  <li>Git </li>
+  <li>GitHub</li>
+  <li>Xampp</li>
+  <li>Postman</li>
+  <li>Selenium IDE</li>
+  <li>Visual Studio Code </li>
+  <li>IntelliJ IDEA</li>
+  <li>VS Code</li>
+  <li>Brackets</li>
+  <li>Jenkins</li>
+  <li>TestRail</li>
+  <li>MySQL Server</li>
+  <li>Ms SQL Server</li>
+  <li>PostgreSQL</li>
+  <li>Zephyr</li>
+  <li>Fiddler everywhere</li>
+</ul>
 
 ## Soft skills 👐
+<ul>
+  <li>Precision</li>
+  <li>Communication</li>
+  <li>Empathy</li>
+  <li>Assertiveness</li>
+  <li>Patience</li>
+  <li>Prioritization</li>
+  <li>Attentiveness</li>
+  <li>Interpersonal Skills</li>
+  <li>Good adaptability</li>
+  <li>Stress Resistance</li>
+</ul>
 
 ## Samples 🗂
 
