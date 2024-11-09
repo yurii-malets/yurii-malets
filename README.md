@@ -14,4 +14,6 @@ communication and organization skills. I am excited to join a team where I can l
 
 ## Links 🔗
 
+<a href="t.me/yura_malets">telegram</a>
+<a href="https://www.imdb.com/">imdb</a>
 
