@@ -1,4 +1,4 @@
-##           Portfolio
+## <p align=”center”>Portfolio</p>
 
 ## About me 👋
 Hi, my name is Yura. Since 2023 I have been studying and practicing to become a QA Engineer. I am happy to have finally found an area where I can successfully develop myself. In this portfolio, I would like to share my knowledge of QA and showcase the practical skills that I have gained through self-study. I am determined to continue to grow in this field. I am a detail-oriented individual, an aspiring QA Engineer with a strong desire to build a career in software testing. I have a good understanding of QA/QC processes, requirements, methodology, testing types, etc. I consider myself a positive, proactive, responsible, and flexible person with good
