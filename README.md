@@ -10,7 +10,7 @@ communication and organization skills. I am excited to join a team where I can l
   <li>UML</li>
   <li>Java core</li>
   <li>SQL</li>
-  <li>Rest Api</li>
+  <li>Rest API</li>
   <li>CI</li>
   <li>JSON/XML</li>
   <li>Rest API testing</li>
