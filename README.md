@@ -24,7 +24,7 @@ communication and organization skills. I am excited to join a team where I can l
   <li>Performing smoke tests</li>
 </ul>
 
-## Tools 
+## Tools 🔧
 <ul>
   <li>Jira</li>
   <li>Trello</li>
@@ -65,16 +65,22 @@ communication and organization skills. I am excited to join a team where I can l
 
 ## Samples 🗂
 <a href="https://ua.puma.com/">Puma website</a> testing<br />
-<a href="https://docs.google.com/spreadsheets/d/1DA2XUOaPkbQF3LN5zJxpXwYXMfp-g4MNlS9llQV1UhY/edit?usp=drive_link">Checklist</a><br />
-<a href="https://docs.google.com/spreadsheets/d/19ZBce5eUUAwALoWePm5lPYvxHJ8gouj0zWoqER3yluw/edit?usp=drive_link">Test Cases</a><br />
-<a href="https://docs.google.com/spreadsheets/d/1RLPPLsERGLH2TBVJnNonv9bLQpJ5mmVOTRs_gWC_iGU/edit?usp=drive_link">Bug Report</a><br />
-<a href="https://drive.google.com/file/d/1aq7b_lAz4kgRD_mjcPe8pqMHk75Sx3Xy/view?usp=drive_link">Test Report</a><br />
-
+<ul>
+  <li><a href="https://docs.google.com/spreadsheets/d/1DA2XUOaPkbQF3LN5zJxpXwYXMfp-g4MNlS9llQV1UhY/edit?usp=drive_link">Checklist</a><br /></li>
+  <li><a href="https://docs.google.com/spreadsheets/d/19ZBce5eUUAwALoWePm5lPYvxHJ8gouj0zWoqER3yluw/edit?usp=drive_link">Test Cases</a><br /></li>
+  <li><a href="https://docs.google.com/spreadsheets/d/1RLPPLsERGLH2TBVJnNonv9bLQpJ5mmVOTRs_gWC_iGU/edit?usp=drive_link">Bug Report</a><br /></li>
+  <li><a href="https://drive.google.com/file/d/1aq7b_lAz4kgRD_mjcPe8pqMHk75Sx3Xy/view?usp=drive_link">Test Report</a><br /></li>
+</ul>
 
 ## Links and contacts 🔗
 
-<a href="https://www.t.me/yura_malets">Telegram</a><br />
-<a href="https://www.linkedin.com/in/yurii-malets-14a9b8182">LinkedIn</a><br />
-yuramalets@gmail.com
+<ul>
+  <li><a href="https://www.t.me/yura_malets">Telegram</a><br /></li>
+  <li><a href="https://www.linkedin.com/in/yurii-malets-14a9b8182">LinkedIn</a><br /></li>
+  <li>yuramalets@gmail.com<br /></li>
+</ul>
+
+
+
 
 
