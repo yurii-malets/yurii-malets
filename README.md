@@ -23,7 +23,8 @@ communication and organization skills. I am excited to join a team where I can l
   <li>Creating documentation</li>
   <li>Performing smoke tests</li>
 </ul>
-## Tools  🔧
+
+## Tools 
 <ul>
   <li>Jira</li>
   <li>Trello</li>
@@ -63,6 +64,12 @@ communication and organization skills. I am excited to join a team where I can l
 </ul>
 
 ## Samples 🗂
+<a href="https://ua.puma.com/">Puma website</a> testing<br />
+<a href="https://docs.google.com/spreadsheets/d/1DA2XUOaPkbQF3LN5zJxpXwYXMfp-g4MNlS9llQV1UhY/edit?usp=drive_link">Checklist</a><br />
+<a href="https://docs.google.com/spreadsheets/d/19ZBce5eUUAwALoWePm5lPYvxHJ8gouj0zWoqER3yluw/edit?usp=drive_link">Test Cases</a><br />
+<a href="https://docs.google.com/spreadsheets/d/1RLPPLsERGLH2TBVJnNonv9bLQpJ5mmVOTRs_gWC_iGU/edit?usp=drive_link">Bug Report</a><br />
+<a href="https://drive.google.com/file/d/1aq7b_lAz4kgRD_mjcPe8pqMHk75Sx3Xy/view?usp=drive_link">Test Report</a><br />
+
 
 ## Links and contacts 🔗
 
