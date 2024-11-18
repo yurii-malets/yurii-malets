@@ -74,7 +74,7 @@ communication and organization skills. I am excited to join a team where I can l
   <li><a href="https://drive.google.com/file/d/1aq7b_lAz4kgRD_mjcPe8pqMHk75Sx3Xy/view?usp=drive_link">Test Report</a><br /></li>
 </ul>
 
-## Links and contacts 🔗L
+## Links and contacts 🔗
 
 <ul>
   <li><a href="https://www.t.me/yura_malets">Telegram</a><br /></li>
